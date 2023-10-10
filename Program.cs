@@ -10,7 +10,7 @@ public class Program
         {
             Console.Clear();
             Console.WriteLine("Garage Management System");
-            Console.WriteLine("1. Create a Ggarage");
+            Console.WriteLine("1. Create a garage");
             Console.WriteLine("2. Close the garage");
             Console.WriteLine("3. Add new vehicle to garage");
             Console.WriteLine("4. List all vehicles");
